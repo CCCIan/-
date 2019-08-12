@@ -1,0 +1,3 @@
+看Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems这篇文章是19年www会议的，
+A会。先就是大致上看看他的结构和神经网络挺好理解的。后续仔细看看。然后主要就是思考怎么设计每个雾节点的深度模型
+训练，这个问题困扰很久，现在发现可以用加载预训练模型做，理论上是可以的，后续再深入研究一下。
