@@ -1,0 +1,4 @@
+接着看Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems，然后再思考方案的设计，已经
+有一点思绪了，也能跟前一篇文章有联系，只不过半监督方法要再做一些改动了。数据处理还是有问题，我还是要再想想。之前的smart
+home异常检测数据和这次的行为预测的数据都用到也是可以的，但是还要花很多时间处理数据和选择方法，我觉得内容够写一篇期刊论文。
+还是挺期待想那个会议的结果怎么样，看看别人的评价如何。
