@@ -1,0 +1,3 @@
+看From Fingerprint to Footprint: Revealing Physical World Privacy Leakage by Cyberspace Cookie Logs。
+这篇文章是通过cookie数据先进性路径分析，然后进行分类来揭示隐私泄露的问题。隐私泄露更像是自然语言处理和机器学习的结合，
+目的是挖掘出关于隐私部分是否容易被找出或者被分析出来。这些原始的数据都是明文而且像是很杂乱的数据。然后改了下论文。
